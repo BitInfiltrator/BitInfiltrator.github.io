@@ -11,12 +11,20 @@
     </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://bitinfiltrator.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>My Important post</title>
       <link>https://bitinfiltrator.github.io/posts/myfirst/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       <guid>https://bitinfiltrator.github.io/posts/myfirst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My not post</title>
+      <link>https://bitinfiltrator.github.io/posts/mysecound/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://bitinfiltrator.github.io/posts/mysecound/</guid>
       <description></description>
     </item>
   </channel>
