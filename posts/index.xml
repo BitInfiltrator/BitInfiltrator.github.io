@@ -14,13 +14,6 @@
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://bitinfiltrator.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Important post</title>
-      <link>https://bitinfiltrator.github.io/posts/myfirst/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://bitinfiltrator.github.io/posts/myfirst/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>My not post</title>
       <link>https://bitinfiltrator.github.io/posts/mysecound/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
