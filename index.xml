@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 13:11:18 +0000</lastBuildDate>
     <atom:link href="https://bitinfiltrator.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is happening before main function?</title>
+      <link>https://bitinfiltrator.github.io/posts/whatishappeningbeforemainfunc/</link>
+      <pubDate>Thu, 16 Jan 2025 13:11:18 +0000</pubDate>
+      <guid>https://bitinfiltrator.github.io/posts/whatishappeningbeforemainfunc/</guid>
+      <description>&lt;h1 id=&#34;introducion&#34;&gt;Introducion&lt;/h1&gt;
+&lt;p&gt;For most programmers, the entry point of a C or C++ program is the main function. However, they may be unaware of the complex steps that occur before main is executed. Depending on the program and the compiler used, various functions may run before main. These functions are automatically included in the final executable binary by the compiler and linker, but they remain hidden from the programmer.
+Before we dive into the main part, you must have some basic knowledge about constructor and destructors.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My not post</title>
       <link>https://bitinfiltrator.github.io/posts/mysecound/</link>
