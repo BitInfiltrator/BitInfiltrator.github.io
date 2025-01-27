@@ -11,23 +11,16 @@
     </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jan 2025 13:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 13:11:18 +0000</lastBuildDate>
     <atom:link href="https://bitinfiltrator.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What is happening before main function?</title>
+      <title>What happens before the main function, from the _start point to the main function?</title>
       <link>https://bitinfiltrator.github.io/posts/whatishappeningbeforemainfunc/</link>
-      <pubDate>Thu, 16 Jan 2025 13:11:18 +0000</pubDate>
+      <pubDate>Sat, 25 Jan 2025 13:11:18 +0000</pubDate>
       <guid>https://bitinfiltrator.github.io/posts/whatishappeningbeforemainfunc/</guid>
-      <description>&lt;h1 id=&#34;introducion&#34;&gt;Introducion&lt;/h1&gt;
-&lt;p&gt;For most programmers, the entry point of a C or C++ program is the main function. However, they may be unaware of the complex steps that occur before main is executed. Depending on the program and the compiler used, various functions may run before main. These functions are automatically included in the final executable binary by the compiler and linker, but they remain hidden from the programmer.
-Before we dive into the main part, you must have some basic knowledge about constructor and destructors.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My not post</title>
-      <link>https://bitinfiltrator.github.io/posts/mysecound/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://bitinfiltrator.github.io/posts/mysecound/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;introducion&#34;&gt;Introducion&lt;/h2&gt;
+&lt;p&gt;For most programmers, the entry point of a C or C++ program is the main function. However, they may be unaware of the complex steps that occur before main is executed. Depending on the program and the compiler used, various functions may run before main. These functions are automatically included in the final executable binary by the compiler and linker, but they remain hidden from the programmer.&lt;/p&gt;
+&lt;p&gt;This post discusses the execution process and events from _start to the main function, with future posts covering the next steps.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
